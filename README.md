@@ -25,7 +25,7 @@ A clean and simple QR code component designed with modern CSS practices.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-qr-code-component-KErEuKFm0C)
 - Live Site URL: [Vercel](https://qr-code-component-main-ashen.vercel.app/)
 
 ## My Process
