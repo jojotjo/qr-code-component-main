@@ -26,7 +26,7 @@ A clean and simple QR code component designed with modern CSS practices.
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://qr-code-component-main-ashen.vercel.app/)
 
 ## My Process
 
